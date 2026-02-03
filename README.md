@@ -1,5 +1,5 @@
 # Epidemic-Research-Simulator-SEIR-
-[seir_readme.md](https://github.com/user-attachments/files/25045199/seir_readme.md)
+
 #  Epidemic Research Simulator&#x20;
 
 ## Before you read:
